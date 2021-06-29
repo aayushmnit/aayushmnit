@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://github-readme-stats.vercel.app/api?username=aayushmnit&show_icons=true&theme=radical
+![Aayush's Github Stats:](https://github-readme-stats.vercel.app/api?username=aayushmnit&show_icons=true&theme=radical)
