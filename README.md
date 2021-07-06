@@ -1,6 +1,7 @@
 ### Hi there 👋
  
 This is my github repo where I keep some of my personal projects and presentations while exploring various topics in Data science.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushmnit" alt="aayushmnit" /> </p>
 <!--
 **aayushmnit/aayushmnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
